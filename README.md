@@ -29,3 +29,7 @@ and we will get the output message:
 ```
 hello world! a message generate by c++
 ```
+
+# future tasks
+* get the way to share buffers from js and c++
+* create a changing bitmap on c++ and display it by node.js
