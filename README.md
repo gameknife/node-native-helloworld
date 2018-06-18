@@ -20,7 +20,7 @@ npm install --global --production windows-build-tools
 get xcode installed, and make sure the commandline tools is ready
 
 ### linux
-gcc envioronment? didn't tested.
+makesure python2.7 & gcc-c++ installed.
 
 ## test
 ```
