@@ -16,8 +16,11 @@ the quick way is to install the windows-build-tools
 npm install --global --production windows-build-tools
 ```
 
-### xcode
+### mac
 get xcode installed, and make sure the commandline tools is ready
+
+### linux
+gcc envioronment? didn't tested.
 
 ## test
 ```
