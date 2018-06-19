@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node-gyp --silent build && node test.js"
   },
+  "dependencies": {
+  	"nan": "*"
+  },
   "author": "gameKnife",
   "license": "MIT"
 }
